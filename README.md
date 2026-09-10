@@ -12,6 +12,10 @@ How I think about delivery, engineering style, and the AI work I have been doing
 
 The kinds of environments I have worked in and the shape of the roles behind them.
 
+## [Projects I Have Worked On](projects.md)
+
+Selected systems and products that show the kind of work I like to do in practice.
+
 ## [Companies and Dates](companies.md)
 
 The chronology behind the story, if you want the full timeline.
