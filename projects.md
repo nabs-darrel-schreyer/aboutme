@@ -1,3 +1,5 @@
+# &larr; [Back to home](README.md)
+
 # Projects I Have Worked On
 
 These are selected examples of the kinds of systems I have built and maintained over the years.

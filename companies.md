@@ -1,3 +1,5 @@
+# &larr; [Back to home](README.md)
+
 # Companies and Dates
 
 | Company | Dates |

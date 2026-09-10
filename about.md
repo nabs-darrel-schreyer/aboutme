@@ -1,3 +1,5 @@
+# &larr; [Back to home](README.md)
+
 # About
 
 - Principal .NET Solution Engineer and Architect with 25+ years of hands-on experience in the Microsoft ecosystem.

@@ -1,3 +1,5 @@
+# &larr; [Back to home](README.md)
+
 # Packages and Libraries
 
 I also build and maintain public packages that turn repeated engineering patterns into reusable tools.
