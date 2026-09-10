@@ -6,8 +6,8 @@ I also build and maintain public packages that turn repeated engineering pattern
 
 ## Public Profiles
 
-- [NuGet profile](https://www.nuget.org/profiles/nabs)
-- [npm profile](https://www.npmjs.com/~nabs-darrel-schreyer)
+- <a href="https://www.nuget.org/profiles/nabs" target="_blank" rel="noopener noreferrer">NuGet profile</a>
+- <a href="https://www.npmjs.com/~nabs-darrel-schreyer" target="_blank" rel="noopener noreferrer">npm profile</a>
 
 | Ecosystem | Highlights |
 | --- | --- |
