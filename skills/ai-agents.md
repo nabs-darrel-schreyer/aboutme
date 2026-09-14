@@ -34,4 +34,4 @@ AfSessionExperiment is a Microsoft Agent Framework (MAF) console sample where Pr
 
 ## Related videos
 
-Artefact-driven SDLC with Microsoft Agent Framework: [Part 1](https://youtu.be/jneY3Ryk_YU) and [Part 2](https://youtu.be/OGiN1CrcwVA) - or watch on the [Videos]({{ '/videos/' | relative_url }}) page.
+Artefact-driven SDLC with Microsoft Agent Framework: [Part 1](https://youtu.be/jneY3Ryk_YU), [Part 2](https://youtu.be/OGiN1CrcwVA), and [Part 3](https://youtu.be/WUdDcd6v-Vc) - or watch on the [Videos]({{ '/videos/' | relative_url }}) page.
