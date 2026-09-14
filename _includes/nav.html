@@ -1,5 +1,8 @@
 <nav class="nav" aria-label="Primary">
-  <a class="nav__brand" href="{{ '/' | relative_url }}">Darrel Schreyer</a>
+  <a class="nav__brand" href="{{ '/' | relative_url }}">
+    <img class="nav__avatar" src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="" width="36" height="36">
+    <span>Darrel Schreyer</span>
+  </a>
   <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-menu" data-nav-toggle>
     <span class="sr-only">Menu</span>
     <span></span><span></span><span></span>
