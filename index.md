@@ -17,6 +17,10 @@ Living CV - public repos organised by technology, with concise summaries of what
 
 Whitepapers and co-authored thought leadership on AI and organisational capability.
 
+## [Videos]({{ '/videos/' | relative_url }})
+
+Artefact-driven SDLC demos with Microsoft Agent Framework.
+
 ## [Work history]({{ '/work-history/' | relative_url }})
 
 The kinds of environments I have worked in and the shape of the roles behind them.
