@@ -20,6 +20,7 @@ This is the living CV: public work organised by technology, each with a link and
 - [Azure]({{ '/skills/azure/' | relative_url }})
 - [CI/CD]({{ '/skills/cicd/' | relative_url }})
 - [React]({{ '/skills/react/' | relative_url }})
+- [Next.js]({{ '/skills/nextjs/' | relative_url }})
 - [NuGet]({{ '/skills/nuget/' | relative_url }})
 - [npm]({{ '/skills/npm/' | relative_url }})
 
