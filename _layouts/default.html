@@ -18,7 +18,7 @@
   <main class="site-main {% if page.hero %}site-main--home{% endif %}">
     {% if page.hero %}
     <section class="hero">
-      <div class="hero__grid">
+      <div class="hero__inner">
         <div class="hero__copy">
           <p class="hero__eyebrow">Principal .NET Solution Engineer</p>
           <h1 class="hero__title">{{ site.title }}</h1>
@@ -28,8 +28,8 @@
             <a class="btn btn--ghost" href="{{ '/about/' | relative_url }}">About how I work</a>
           </div>
         </div>
-        <div class="hero__photo">
-          <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Portrait of Darrel Schreyer" width="320" height="320">
+        <div class="hero__photo" aria-hidden="false">
+          <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Portrait of Darrel Schreyer" width="220" height="220">
         </div>
       </div>
     </section>
