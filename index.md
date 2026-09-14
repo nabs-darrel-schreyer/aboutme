@@ -13,6 +13,10 @@ How I think about delivery, engineering style, and the AI work I have been doing
 
 Living CV - public repos organised by technology, with concise summaries of what each one demonstrates.
 
+## [Writing]({{ '/writing/' | relative_url }})
+
+Whitepapers and co-authored thought leadership on AI and organisational capability.
+
 ## [Work history]({{ '/work-history/' | relative_url }})
 
 The kinds of environments I have worked in and the shape of the roles behind them.
