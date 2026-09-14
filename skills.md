@@ -14,5 +14,6 @@ This is the living CV: public work organised by technology, each with a link and
 - [Orleans]({{ '/skills/orleans/' | relative_url }})
 - [Azure]({{ '/skills/azure/' | relative_url }})
 - [React]({{ '/skills/react/' | relative_url }})
+- [NuGet]({{ '/skills/nuget/' | relative_url }})
 
 More sections will appear as new showcase repos land.
