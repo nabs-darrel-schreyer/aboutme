@@ -8,30 +8,38 @@ collection_style: activities
 
 Work matters - so does staying sharp outside it. A few things I enjoy when I am not deep in code.
 
-## Cycling
+<div class="activity-grid">
 
 <div class="activity">
   <img class="activity__photo" src="{{ '/assets/images/activities/cycling.jpg' | relative_url }}" alt="Cycling with a friend on a coastal trail overlooking an estuary">
-  <p class="activity__caption">Time on the bike - coastal rides, fresh air, and good company.</p>
+  <div class="activity__body">
+    <h2>Cycling</h2>
+    <p>Coastal rides, fresh air, and good company.</p>
+  </div>
 </div>
-
-## Ten-pin bowling
 
 <div class="activity">
   <img class="activity__photo" src="{{ '/assets/images/activities/bowling.jpg' | relative_url }}" alt="Giving a thumbs-up at the bowling alley">
-  <p class="activity__caption">League nights and casual games - competitive enough to stay interesting, social enough to stay fun.</p>
+  <div class="activity__body">
+    <h2>Ten-pin bowling</h2>
+    <p>League nights and casual games - competitive enough to stay interesting, social enough to stay fun.</p>
+  </div>
 </div>
-
-## Travelling
 
 <div class="activity">
-  <img class="activity__photo" src="{{ '/assets/images/activities/travel.jpg' | relative_url }}" alt="Visiting USS Missouri in Hawaiʻi">
-  <p class="activity__caption">Exploring places with history and scale - including USS Missouri in Hawaiʻi.</p>
+  <img class="activity__photo" src="{{ '/assets/images/activities/travel.jpg' | relative_url }}" alt="At the Australian National Maritime Museum in Sydney">
+  <div class="activity__body">
+    <h2>Travelling</h2>
+    <p>Exploring places with history and scale - including the Australian National Maritime Museum in Sydney.</p>
+  </div>
 </div>
-
-## Auckland Software Value Delivery Meetup
 
 <div class="activity">
   <img class="activity__photo" src="{{ '/assets/images/activities/meetup.jpg' | relative_url }}" alt="Poster for the first Auckland Software Value Delivery Meetup">
-  <p class="activity__caption">Our first meetup on value delivery with NET Advantage - practical models, connection, and a bit of laser-tag energy. <a href="https://www.meetup.com/auckland-software-value-delivery-group" target="_blank" rel="noopener noreferrer">Meetup group</a></p>
+  <div class="activity__body">
+    <h2>Value delivery meetup</h2>
+    <p>Our first Auckland Software Value Delivery Meetup with NET Advantage - practical models, connection, and a bit of laser-tag energy. <a href="https://www.meetup.com/auckland-software-value-delivery-group" target="_blank" rel="noopener noreferrer">Meetup group</a></p>
+  </div>
+</div>
+
 </div>
