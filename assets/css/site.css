@@ -261,8 +261,17 @@ body {
 .btn:hover { transform: translateY(-1px); }
 
 .btn--primary {
-  background: linear-gradient(135deg, #60a5fa, #3b82f6);
-  color: #041018;
+  background: #2563eb;
+  color: #ffffff;
+  border: 1px solid #1d4ed8;
+}
+
+.btn--primary:hover,
+.btn--primary:focus-visible {
+  background: #1d4ed8;
+  color: #ffffff;
+  outline: 2px solid #93c5fd;
+  outline-offset: 2px;
 }
 
 .btn--ghost {
@@ -526,8 +535,25 @@ body {
   color: var(--text-muted);
 }
 
-.skills-invite .btn {
-  width: 100%;
+
+.skills-layout__main ul {
+  margin: 0.75rem 0 1rem;
+  padding-left: 1.2rem;
+}
+
+.skills-layout__main li + li {
+  margin-top: 0.45rem;
+}
+
+.skills-invite .btn--primary {
+  display: inline-flex;
+  width: auto;
+  min-width: 100%;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+  border-bottom: 0 !important;
+  font-weight: 600;
 }
 
 @media (max-width: 820px) {
