@@ -8,6 +8,10 @@ This is the quickest way to get a sense of how I work: what I care about, the ki
 
 How I think about delivery, engineering style, and the AI work I have been doing.
 
+## [Skills showcase](skills.md)
+
+Living CV - public repos organised by technology, with concise summaries of what each one demonstrates.
+
 ## [Work History](work-history.md)
 
 The kinds of environments I have worked in and the shape of the roles behind them.
@@ -23,4 +27,3 @@ The chronology behind the story, if you want the full timeline.
 ## [Packages and Libraries](packages.md)
 
 The public packages and libraries I have built and still maintain.
-
