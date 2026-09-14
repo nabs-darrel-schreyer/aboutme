@@ -14,3 +14,4 @@ Living engineering CV published as GitHub Pages.
 - [Packages](packages.md)
 
 Showcase repos are summarised and linked under Skills as new public work lands.
+- [Activities](activities.md)

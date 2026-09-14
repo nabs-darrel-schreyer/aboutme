@@ -28,3 +28,7 @@ The chronology behind the story, if you want the full timeline.
 ## [Packages]({{ '/packages/' | relative_url }})
 
 The public packages and libraries I have built and still maintain.
+
+## [Activities]({{ '/activities/' | relative_url }})
+
+Cycling, bowling, travel, and the Auckland value-delivery meetup.
