@@ -5,25 +5,23 @@ title: About
 
 # About
 
-I am a Principal .NET Solution Engineer and Architect with 30 years of hands-on work in the Microsoft ecosystem, starting in 1996. I stay close to the code: shaping architecture, modernising complex systems, and contributing as an IC when that is what the team needs. The through-line is simple - build high-quality software with strong people and as little waste as possible.
+Senior full-stack and applied AI engineer (.NET, React, Azure), based in Sydney, NSW. I have 30 years of hands-on software engineering from 1996, and I still own outcomes end-to-end - architecture, delivery, and the code - with as little waste as possible.
 
-## How I engineer
+## Solutions I take to production
 
-### Architecture that stays changeable
+I design and ship systems where compliance, reliability, and changeability all have to hold. At Taxlab (fintech), I architected and built Australia tax compliance software under ISO 27001 and the Australian Digital Service Provider Operational Framework, including work against the External Vendor Testing Environment (EVTE).
 
-Sustainable systems beat clever ones. I spend time removing waste, reducing technical debt, and making software easier to change so teams can accelerate delivery - not freeze it behind ceremony.
+That same delivery habit shows up elsewhere: remove waste, reduce technical debt, and keep software easy to change so teams can accelerate. I am comfortable leading technical direction or pairing on the hard path to get something into production.
 
-### Delivery over theatre
+## Stack I own
 
-Delivery value matters. Simple, supportable solutions help teams move faster. I am equally comfortable leading technical direction or pairing on the hard path to get something into production.
+Full-stack ownership across the Microsoft and modern web ecosystem - .NET backends and APIs, React front ends and design-system shells, Azure hosting and data. Packages and samples teams can adopt live in the [skills showcase]({{ '/skills/' | relative_url }}) and [packages]({{ '/packages/' | relative_url }}).
 
-### Depth across the stack I ship with
+## AI platforms and applied practice
 
-Most of my work sits in the Microsoft and modern web ecosystem: .NET, Azure, APIs, packages, and front-end shells teams can actually adopt. The living proof is in the [skills showcase]({{ '/skills/' | relative_url }}) and [packages]({{ '/packages/' | relative_url }}).
+Applied AI is part of how I deliver, not a side project. Recent work includes agents, skills, and deterministic tools with Azure AI Foundry, Microsoft Agent Framework, GitHub Copilot, and AI-assisted SDLC practices when they improve the outcome. Token spend is watched closely; AI work is judged by value delivered.
 
-### AI as engineering leverage
-
-Over the last two years AI has been a deep focus - agents, skills, and deterministic tools, using Azure AI Foundry, Microsoft Agent Framework, GitHub Copilot, and AI-assisted SDLC practices when they improve the outcome. Token spend is watched closely; AI work is judged by the value it delivers. See also the [writing]({{ '/writing/' | relative_url }}) on organisational AI capability.
+Azure AI Foundry is part of that toolkit. Related Microsoft Fabric work stayed non-production - that project did not go live. See also the [videos]({{ '/videos/' | relative_url }}) and [writing]({{ '/writing/' | relative_url }}) on artefact-driven delivery and organisational AI capability.
 
 ## What I optimise for
 
