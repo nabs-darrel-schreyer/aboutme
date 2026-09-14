@@ -12,6 +12,6 @@ Public samples that show how to consume and demonstrate Nabs UI packages on npm.
 
 **Corporate React shell + schema-driven DynamicForm**
 
-NabsUiShell.Showcase is a standalone React app demonstrating [@net-advantage/nabs-ui-shell](https://www.npmjs.com/package/@net-advantage/nabs-ui-shell) 0.84.0 with an elegant corporate Shell, Branding, and path-aware Navigation. The headline feature is a multi-section vendor onboarding DynamicForm (organisation, contact, commercial terms, compliance, address) driven by nested JSON Schema - enums, currency, booleans, and long text - showing how teams adopt the shell as a single import surface for real business UI.
+NabsUiShell.Showcase is a React/Vite app that demos the [@net-advantage/nabs-ui-shell](https://www.npmjs.com/package/@net-advantage/nabs-ui-shell) npm package (0.84.0) as a single import surface for Shell, Branding, Navigation, Cards, Panel, Button, and Tab. Path-aware navigation and tabbed DynamicForm vendor onboarding (organisation, contact, commercial, compliance, address) show real business UI. [Live demo on GitHub Pages](https://nabs-darrel-schreyer.github.io/NabsUiShell.Showcase/).
 
-`React` | `TypeScript` | `Vite` | `npm` | `@net-advantage/nabs-ui-shell` | `DynamicForm` | `Nabs UI`
+`React` | `TypeScript` | `Vite` | `npm` | `@net-advantage/nabs-ui-shell` | `DynamicForm` | `GitHub Pages`
