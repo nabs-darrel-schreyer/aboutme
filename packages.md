@@ -1,10 +1,13 @@
-# &larr; [Back to home](README.md)
+---
+layout: default
+title: Packages
+---
 
-# Packages and Libraries
+# Packages and libraries
 
 I also build and maintain public packages that turn repeated engineering patterns into reusable tools.
 
-## Public Profiles
+## Public profiles
 
 - <a href="https://www.nuget.org/profiles/nabs" target="_blank" rel="noopener noreferrer">NuGet profile</a>
 - <a href="https://www.npmjs.com/~nabs-darrel-schreyer" target="_blank" rel="noopener noreferrer">npm profile</a>

@@ -1,0 +1,16 @@
+<nav class="nav" aria-label="Primary">
+  <a class="nav__brand" href="{{ '/' | relative_url }}">Darrel Schreyer</a>
+  <button class="nav__toggle" type="button" aria-expanded="false" aria-controls="nav-menu" data-nav-toggle>
+    <span class="sr-only">Menu</span>
+    <span></span><span></span><span></span>
+  </button>
+  <div class="nav__links" id="nav-menu">
+    <a href="{{ '/about/' | relative_url }}">About</a>
+    <a href="{{ '/skills/' | relative_url }}">Skills</a>
+    <a href="{{ '/work-history/' | relative_url }}">Work</a>
+    <a href="{{ '/projects/' | relative_url }}">Projects</a>
+    <a href="{{ '/companies/' | relative_url }}">Companies</a>
+    <a href="{{ '/packages/' | relative_url }}">Packages</a>
+    <a class="nav__external" href="https://github.com/nabs-darrel-schreyer" target="_blank" rel="noopener">GitHub</a>
+  </div>
+</nav>

@@ -1,4 +1,7 @@
-# &larr; [Back to home](README.md)
+---
+layout: default
+title: About
+---
 
 # About
 

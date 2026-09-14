@@ -1,6 +1,9 @@
-# &larr; [Back to home](README.md)
+---
+layout: default
+title: Work history
+---
 
-# Work History
+# Work history
 
 My approach to my work is to remain an individual contributor while enabling those around me and driving delivery.
 

@@ -1,4 +1,8 @@
-# &larr; [Back to skills](../skills.md) | [Home](../README.md)
+---
+layout: default
+title: .NET
+collection_style: skills
+---
 
 # .NET
 

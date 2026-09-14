@@ -1,4 +1,8 @@
-# &larr; [Back to skills](../skills.md) | [Home](../README.md)
+---
+layout: default
+title: AI agents
+collection_style: skills
+---
 
 # AI agents
 

@@ -1,6 +1,9 @@
-# &larr; [Back to home](README.md)
+---
+layout: default
+title: Companies
+---
 
-# Companies and Dates
+# Companies and dates
 
 | Company | Dates |
 | --- | --- |

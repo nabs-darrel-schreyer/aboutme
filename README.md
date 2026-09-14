@@ -1,29 +1,16 @@
 # Darrel Schreyer
 
-This is the quickest way to get a sense of how I work: what I care about, the kinds of problems I have spent time on, and the tools and packages I keep building.
+Living engineering CV published as GitHub Pages.
 
-## Start Here
+**Site:** https://nabs-darrel-schreyer.github.io/aboutme/
 
-## [About](about.md)
+## Pages
 
-How I think about delivery, engineering style, and the AI work I have been doing.
+- [About](about.md)
+- [Skills showcase](skills.md)
+- [Work history](work-history.md)
+- [Projects](projects.md)
+- [Companies](companies.md)
+- [Packages](packages.md)
 
-## [Skills showcase](skills.md)
-
-Living CV - public repos organised by technology, with concise summaries of what each one demonstrates.
-
-## [Work History](work-history.md)
-
-The kinds of environments I have worked in and the shape of the roles behind them.
-
-## [Projects I Have Worked On](projects.md)
-
-Selected systems and products that show the kind of work I like to do in practice.
-
-## [Companies and Dates](companies.md)
-
-The chronology behind the story, if you want the full timeline.
-
-## [Packages and Libraries](packages.md)
-
-The public packages and libraries I have built and still maintain.
+Showcase repos are summarised and linked under Skills as new public work lands.

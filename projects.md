@@ -1,6 +1,9 @@
-# &larr; [Back to home](README.md)
+---
+layout: default
+title: Projects
+---
 
-# Projects I Have Worked On
+# Projects I have worked on
 
 These are selected examples of the kinds of systems I have built and maintained over the years.
 
