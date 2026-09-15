@@ -23,7 +23,8 @@ Artefact-driven SDLC demos with Microsoft Agent Framework.
 
 ## [Work history]({{ '/work-history/' | relative_url }})
 
-The kinds of environments I have worked in and the shape of the roles behind them.
+Selected regulated, platform, product, and operational delivery - IC first, with architecture and mentoring on top.
+
 
 ## [Projects]({{ '/projects/' | relative_url }})
 
