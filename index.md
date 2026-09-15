@@ -25,8 +25,6 @@ Artefact-driven SDLC demos with Microsoft Agent Framework.
 
 Selected regulated, platform, product, and operational delivery - IC first, with architecture and mentoring on top.
 
-
-
 ## [Companies]({{ '/companies/' | relative_url }})
 
 The chronology behind the story, if you want the full timeline.
