@@ -9,7 +9,6 @@ Living engineering CV published as GitHub Pages.
 - [About](about.md)
 - [Skills showcase](skills.md)
 - [Work history](work-history.md)
-- [Projects](projects.md)
 - [Companies](companies.md)
 - [Packages](packages.md)
 

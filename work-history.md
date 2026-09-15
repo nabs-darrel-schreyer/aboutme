@@ -36,3 +36,11 @@ At Comair I led architecture and delivery of the Electronic Flight Bag and vacat
 ### Building and advising
 
 Since 2018 I have run Net Advantage alongside employed roles: cloud-native .NET and Blazor work, Azure AI, reusable libraries, Bicep, and workshops on sustainable engineering practice. Earlier, I co-founded TechTrek and Win on the Web and spent a long stretch on client architecture and delivery.
+
+### Earlier systems
+
+Practical systems from earlier client and product work that shaped the same delivery habit:
+
+- Timesheet applications for a major European consulting firm and a major South African bank - time capture and reconciliation across large deployed teams.
+- Job tracking for electronics repair workshops - goods receiving, repair tracking, spares, despatch, collections, invoicing, and reporting.
+- Innovation hub solution for platinum mine cost-saving management - multi-user synchronisation under hard operational constraints in the 1990s and early 2000s.
