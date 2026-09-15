@@ -11,6 +11,8 @@ Technologies and practices I use to design, build, and operate software.
 ## Programming Languages
 
 - C#
+- Python
+- Go
 - TypeScript
 - JavaScript
 - HTML
