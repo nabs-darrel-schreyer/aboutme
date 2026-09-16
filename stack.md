@@ -18,6 +18,7 @@ Technologies and practices I use to design, build, and operate software.
 - HTML
 - CSS
 - YAML
+- Rust
 - Bicep
 
 ## .NET & Backend
