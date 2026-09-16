@@ -71,12 +71,19 @@ Technologies and practices I use to design, build, and operate software.
 - AWS Lambda
 - EKS
 
-## Data & Storage
+## Databases
 
-- Azure SQL Database
-- Cosmos DB
-- Relational databases
-- NoSQL
+- SQL Server / Azure SQL Database / Azure SQL Managed Instance / Amazon RDS for SQL Server
+- PostgreSQL / Azure Database for PostgreSQL / Amazon RDS PostgreSQL / Aurora PostgreSQL
+- MySQL
+- SQLite
+- MongoDB / Cosmos DB MongoDB API / Azure DocumentDB
+- Azure Cosmos DB
+- Amazon DynamoDB
+- Redis / Azure Managed Redis / ElastiCache
+- Apache Cassandra
+- Azure Cosmos DB for Apache Gremlin
+- Neo4j
 
 ## DevOps & Infrastructure
 
