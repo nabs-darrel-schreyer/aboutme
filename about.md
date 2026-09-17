@@ -7,6 +7,8 @@ title: About
 
 Senior full-stack and applied AI engineer (.NET, React, Azure), based in Sydney, NSW. I have 30 years of hands-on software engineering from 1996, and I still own outcomes end-to-end - architecture, delivery, and the code - with as little waste as possible.
 
+Graduate, [Founder Institute](https://fi.co) New Zealand/Australia 2025.
+
 ## Solutions I take to production
 
 I design and ship systems where compliance, reliability, and changeability all have to hold. At Taxlab (fintech), I architected and built Australia tax compliance software under ISO 27001 and the Australian Digital Service Provider Operational Framework, including work against the External Vendor Testing Environment (EVTE).
