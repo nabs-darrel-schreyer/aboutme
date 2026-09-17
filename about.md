@@ -9,6 +9,8 @@ Senior full-stack and applied AI engineer (.NET, React, Azure), based in Sydney,
 
 Graduate, [Founder Institute](https://fi.co) New Zealand/Australia 2025.
 
+Microsoft certifications (DevOps Expert, Azure Developer, and earlier web credentials) are on the [Certifications]({{ '/certifications/' | relative_url }}) page.
+
 ## Solutions I take to production
 
 I design and ship systems where compliance, reliability, and changeability all have to hold. At Taxlab (fintech), I architected and built Australia tax compliance software under ISO 27001 and the Australian Digital Service Provider Operational Framework, including work against the External Vendor Testing Environment (EVTE).

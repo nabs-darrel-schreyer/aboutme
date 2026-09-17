@@ -17,6 +17,10 @@ Living CV - public repos organised by technology, with concise summaries of what
 
 Languages, platforms, and practices I use across delivery.
 
+## [Certifications]({{ '/certifications/' | relative_url }})
+
+Microsoft certifications and exams from the official transcript.
+
 ## [Writing]({{ '/writing/' | relative_url }})
 
 Whitepapers and co-authored thought leadership on AI and organisational capability.
