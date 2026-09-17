@@ -17,3 +17,4 @@ Showcase repos are summarised and linked under Skills as new public work lands.
 - [Writing](writing.md)
 - [Videos](videos.md)
 - [Stack](stack.md)
+- [Certifications](certifications.md)
