@@ -246,15 +246,20 @@ body {
   gap: 0.7rem;
 }
 
+/* Scale each diagram so Lucid blocks match; widest (native 1982) fills the content width. */
 .pattern-card {
-  width: 100%;
+  --pattern-ref-w: 1982;
+  --pattern-native-w: 1982;
+  width: min(100%, calc(100% * var(--pattern-native-w) / var(--pattern-ref-w)));
+  max-width: 100%;
+  margin-inline: 0 auto;
   padding: 12px;
   background: #fff;
 }
 
 .pattern-card img {
   display: block;
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
 
