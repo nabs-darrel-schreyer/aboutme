@@ -246,6 +246,18 @@ body {
   gap: 0.7rem;
 }
 
+.pattern-card {
+  width: 100%;
+  padding: 12px;
+  background: #fff;
+}
+
+.pattern-card img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
 .btn {
   display: inline-flex;
   align-items: center;
