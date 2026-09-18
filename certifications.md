@@ -9,8 +9,6 @@ Microsoft certifications from my official transcript (Microsoft Certification ID
 
 [Download official transcript (PDF)]({{ '/assets/documents/microsoft-certification-transcript.pdf' | relative_url }})
 
-## Active certifications (as listed on transcript)
-
 ### Microsoft Certified: DevOps Engineer Expert
 Achieved 10 January 2021 · Certification number H636-0887 · Valid until 10 January 2023
 
