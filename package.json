@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@net-advantage/nabs-ui-shell": "^0.84.0",
+    "react-router-dom": "^7.18.3"
+  }
+}
