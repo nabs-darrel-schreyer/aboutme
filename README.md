@@ -2,7 +2,7 @@
 
 Living engineering CV published as GitHub Pages.
 
-**Site:** https://nabs-darrel-schreyer.github.io/aboutme/
+**Site:** https://schreyer.work/
 
 ## Pages
 

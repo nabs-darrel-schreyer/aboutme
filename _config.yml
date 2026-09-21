@@ -1,7 +1,7 @@
 title: Darrel Schreyer
 description: Senior full-stack and applied AI engineer in Sydney, NSW - .NET, React, Azure. Living CV with public work organised by skill.
-url: https://nabs-darrel-schreyer.github.io
-baseurl: /aboutme
+url: https://schreyer.work
+baseurl: ""
 markdown: kramdown
 permalink: pretty
 exclude:
