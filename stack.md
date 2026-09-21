@@ -92,6 +92,8 @@ Technologies and practices I use to design, build, and operate software.
 - GitHub Actions
 - GitHub Copilot
 - Bicep
+- CDK.NET
+- Terraform
 - YAML
 - CI/CD
 - Infrastructure as Code (IaC)
