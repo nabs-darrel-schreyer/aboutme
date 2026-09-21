@@ -25,6 +25,7 @@ Technologies and practices I use to design, build, and operate software.
 
 - .NET 8 / .NET 10
 - ASP.NET Core
+- .NET Aspire
 - Entity Framework Core
 - Orleans
 - Semantic Kernel
@@ -71,6 +72,11 @@ Technologies and practices I use to design, build, and operate software.
 - AWS Fargate
 - AWS Lambda
 - EKS
+- Amazon S3
+- Amazon DynamoDB
+- IAM / instance profiles
+- LocalStack
+- AWS CDK (.NET)
 
 ## Databases
 
