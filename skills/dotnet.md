@@ -10,11 +10,13 @@ Public samples that show how I work in the .NET ecosystem.
 
 ### [StatementVault](https://github.com/nabs-darrel-schreyer/StatementVault)
 
-**Vertical-slice bank statement archive on AWS (S3 + DynamoDB)**
+**StatementVault - ASP.NET vertical-slice bank statements on AWS**
 
-Teaching sample of an enterprise ASP.NET vertical-slice API for a bank statement archive - statement files in S3, metadata in DynamoDB, local orchestration with .NET Aspire and LocalStack, and Terraform IaC for EC2 plus least-privilege IAM. Demonstrates vertical slices, default credential chain / instance profiles, and a small but production-shaped AWS footprint without auth/UI noise.
+StatementVault is an enterprise-style ASP.NET vertical-slice API sample for a bank statement archive: files in S3, metadata in DynamoDB, .NET Aspire + LocalStack for local runs, and Terraform for EC2/S3/DynamoDB. API-only (no React), with upload/list/get/download slices and a thin Domain/Persistence split. Patterns borrowed from nabs-templates-vertical-slice-react, stripped to the AWS data path for teaching.
 
-`ASP.NET Core` | `.NET Aspire` | `AWS S3` | `DynamoDB` | `EC2` | `Terraform` | `LocalStack` | `vertical slice architecture`
+`ASP.NET Core` | `.NET Aspire` | `AWS` | `S3` | `DynamoDB` | `Terraform` | `LocalStack` | `Vertical Slice` | `EC2`
+
+
 ### [artefact-driven-sdlc](https://github.com/nabs-darrel-schreyer/artefact-driven-sdlc)
 
 **Lean artefact-driven SDLC - agent cohorts + Next.js UI**
