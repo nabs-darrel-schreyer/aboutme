@@ -11,7 +11,7 @@ Thought leadership and co-authored work on AI, delivery, and organisational capa
 
 **LinkedIn | December 2025**
 
-This article treats management bandwidth as an operational constraint and sets out five early-warning metrics for routine agile software delivery decisions: iterations to understanding, mean time to decision, number of reminders, frequency of broken commitments, and quality debt accrual rate. Each metric is scoped to day-to-day work the manager already controls, with thresholds that mark when they have become the bottleneck, and a private sprint tally so two or more yellow weeks prompt offloading before the team has to raise it.
+This article treats management bandwidth as an operational constraint and sets out five early-warning metrics for routine agile software delivery decisions: iterations to understanding, mean time to decision, number of reminders, frequency of broken commitments, and quality debt accrual rate. Each metric is scoped to day-to-day work the manager already controls, with thresholds that mark when they have become the bottleneck, and a private sprint tally that flags two or more metrics in the yellow for two consecutive weeks so the manager can offload work before the team has to say so.
 
 [Read on LinkedIn](https://www.linkedin.com/pulse/management-bandwidth-five-early-warning-metrics-show-youre-schreyer-sy1de/)
 
