@@ -5,7 +5,7 @@ title: About
 
 # About
 
-Senior full-stack and applied AI engineer (.NET, React, Azure), based in Sydney, NSW. I have 30 years of hands-on software engineering from 1996, and I still own outcomes end-to-end - architecture, delivery, and the code - with as little waste as possible.
+Senior full-stack and applied AI engineer (.NET, React, Azure, AWS), based in Sydney, NSW. I have 30 years of hands-on software engineering from 1996, and I still own outcomes end-to-end - architecture, delivery, and the code - with as little waste as possible.
 
 Graduate, [Founder Institute](https://fi.co) New Zealand/Australia 2025.
 
@@ -19,11 +19,11 @@ That same delivery habit shows up elsewhere: remove waste, reduce technical debt
 
 ## Stack I own
 
-Full-stack ownership across the Microsoft and modern web ecosystem - .NET backends and APIs, React front ends and design-system shells, Azure hosting and data. Packages and samples teams can adopt live in the [skills showcase]({{ '/skills/' | relative_url }}) and [packages]({{ '/packages/' | relative_url }}).
+Full-stack ownership of .NET backends and APIs, and React front ends and design-system shells. Azure and AWS are peer platforms for hosting, data, and delivery tooling: Azure Container Apps, SQL, and storage, and AWS S3, DynamoDB, and CDK.NET. Aspire is the local host on both; LocalStack covers local AWS. Packages and samples teams can adopt live in the [skills showcase]({{ '/skills/' | relative_url }}) and [packages]({{ '/packages/' | relative_url }}).
 
 ## AI platforms and applied practice
 
-Applied AI is part of how I deliver, not a side project. Recent work includes agents, skills, and deterministic tools with Azure AI Foundry, Microsoft Agent Framework, GitHub Copilot, and AI-assisted SDLC practices when they improve the outcome. Token spend is watched closely; AI work is judged by value delivered.
+Applied AI is part of how I deliver, not a side project. Recent work includes agents, skills, and deterministic tools with Azure AI Foundry, Microsoft Agent Framework, GitHub Copilot, and AI-assisted SDLC practices when they improve the outcome. Token spend is watched closely; AI work is judged by value delivered. Cloud delivery for the systems around that work spans Azure and AWS.
 
 Azure AI Foundry is part of that toolkit. Related Microsoft Fabric work stayed non-production - that project did not go live. See also the [videos]({{ '/videos/' | relative_url }}) and [writing]({{ '/writing/' | relative_url }}) on artefact-driven delivery and organisational AI capability.
 
