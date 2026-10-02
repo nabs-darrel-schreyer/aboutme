@@ -47,7 +47,7 @@ Technologies and practices I use to design, build, and operate software.
 
 - Microsoft Azure
 - Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
+- Google Cloud Platform (GCP) - experimental, not production
 
 ## Azure
 
