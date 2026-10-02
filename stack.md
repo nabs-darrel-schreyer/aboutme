@@ -99,6 +99,8 @@ Technologies and practices I use to design, build, and operate software.
 ## DevOps & Infrastructure
 
 - Azure DevOps
+- Azure CLI (az)
+- Azure Developer CLI (azd)
 - GitHub Actions
 - GitHub Copilot
 - Bicep
