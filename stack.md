@@ -68,12 +68,16 @@ Technologies and practices I use to design, build, and operate software.
 
 ## AWS
 
-- EC2
+- Amazon EC2
 - AWS Fargate
 - AWS Lambda
-- EKS
+- Amazon EKS
 - Amazon S3
 - Amazon DynamoDB
+- Amazon ElastiCache
+- Amazon SQS
+- Amazon SNS
+- Amazon Kinesis
 - IAM / instance profiles
 - LocalStack
 - AWS CDK (.NET)
@@ -110,6 +114,7 @@ Technologies and practices I use to design, build, and operate software.
 - Kubernetes
 - Azure Kubernetes Service (AKS)
 - Amazon EKS
+- AWS Fargate
 - Azure Container Apps
 
 ## Architecture & Design
