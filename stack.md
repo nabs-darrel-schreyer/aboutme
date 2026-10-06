@@ -51,11 +51,9 @@ Technologies and practices I use to design, build, and operate software.
 
 ## Azure
 
-- Azure App Environments
 - App Services
-- Azure Container Apps
+- Azure Container Apps (including Container Apps Environments)
 - Azure Functions
-- AKS
 - Azure SQL Database
 - Cosmos DB
 - Key Vault
@@ -71,7 +69,7 @@ Technologies and practices I use to design, build, and operate software.
 - Amazon EC2
 - AWS Fargate
 - AWS Lambda
-- Amazon EKS
+- Amazon EKS (deploying services to it)
 - Amazon S3
 - Amazon DynamoDB
 - Amazon ElastiCache
@@ -114,9 +112,7 @@ Technologies and practices I use to design, build, and operate software.
 ## Containers & Orchestration
 
 - Docker
-- Kubernetes
-- Azure Kubernetes Service (AKS)
-- Amazon EKS
+- Kubernetes (deploying services to Amazon EKS)
 - AWS Fargate
 - Azure Container Apps
 
