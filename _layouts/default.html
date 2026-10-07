@@ -35,7 +35,7 @@
     </section>
     {% endif %}
     <article class="prose {% if page.collection_style %}prose--{{ page.collection_style }}{% endif %}">
-      {{ content }}
+      {% include page-heading.html %}
     </article>
   </main>
   <footer class="site-footer">
