@@ -21,7 +21,7 @@ Technologies and practices I use to design, build, and operate software.
 - Rust
 - Bicep
 
-## .NET & Backend
+## Backend and Server
 
 - .NET 8 / .NET 10
 - ASP.NET Core
