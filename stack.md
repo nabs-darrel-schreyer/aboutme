@@ -28,6 +28,7 @@ Technologies and practices I use to design, build, and operate software.
 - .NET Aspire
 - Entity Framework Core
 - Orleans
+- Node.js
 - Semantic Kernel
 - Microsoft Agent Framework
 
