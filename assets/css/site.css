@@ -303,6 +303,34 @@ body {
   letter-spacing: -0.02em;
 }
 
+.prose > h1.page-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.page-heading__icon {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 12px;
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.page-heading__icon svg {
+  display: block;
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.page-heading__text {
+  min-width: 0;
+}
+
 .prose h1,
 .prose h2,
 .prose h3 {

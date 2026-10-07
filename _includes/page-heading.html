@@ -1,0 +1,33 @@
+{%- comment -%}
+  Place the matching home-card icon on the first H1 of a section page.
+  Skill subpages, the home hero, and any other page are left unchanged.
+{%- endcomment -%}
+{%- assign section_icons = "about.md|about,skills.md|skills,stack.md|stack,certifications.md|certifications,writing.md|writing,videos.md|videos,work-history.md|work-history,patterns.md|patterns,packages.md|packages,activities.md|activities" | split: "," -%}
+{%- assign section_icon = "" -%}
+{%- for entry in section_icons -%}
+  {%- assign bits = entry | split: "|" -%}
+  {%- if bits[0] == page.path -%}
+    {%- assign section_icon = bits[1] -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if section_icon != "" -%}
+  {%- assign h1_parts = content | split: "<h1" -%}
+  {%- if h1_parts.size > 1 -%}
+    {%- assign first_h1_onward = h1_parts | slice: 1, 1000 | join: "<h1" -%}
+    {%- assign h1_and_rest = first_h1_onward | split: "</h1>" -%}
+    {%- assign open_and_text = h1_and_rest | first -%}
+    {%- assign after_h1 = h1_and_rest | slice: 1, 1000 | join: "</h1>" -%}
+    {%- assign open_bits = open_and_text | split: ">" -%}
+    {%- assign attrs = open_bits | first -%}
+    {%- assign heading_text = open_bits | slice: 1, 20 | join: ">" | strip -%}
+    {{- h1_parts[0] -}}
+<h1 class="page-heading"{{ attrs }}>
+<span class="page-heading__icon" aria-hidden="true">{%- include page-icon.html icon=section_icon -%}</span><span class="page-heading__text">{{ heading_text }}</span>
+</h1>
+    {{- after_h1 -}}
+  {%- else -%}
+    {{- content -}}
+  {%- endif -%}
+{%- else -%}
+  {{- content -}}
+{%- endif -%}
