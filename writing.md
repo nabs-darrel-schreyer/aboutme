@@ -13,7 +13,7 @@ Thought leadership and co-authored work on AI, delivery, and organisational capa
 
 This article introduces Home in NABS Retros 0.11.0, a VS Code extension that runs retrospectives inside the team's own repository: one place to start, with Objectives and New Retro as the two main actions and the Retrospective Maturity Curve shown front and centre. Home flags open objectives that need review, suggests the next retro date from the team's cadence and checks set-up, on the basis that reviewing objectives every retro is how a team moves past Reflection.
 
-[Read on LinkedIn](https://www.linkedin.com/pulse/start-here-home-retrospectives-keeps-objectives-view-darrel-schreyer-yktac/)
+[Read on LinkedIn](https://www.linkedin.com/pulse/start-here-home-retrospectives-keeps-objectives-view-darrel-schreyer-yktac/) | [NABS Retros on the Skills showcase]({{ '/skills/vscode-extensions/' | relative_url }})
 
 ## From ritual to reinvention: giving the retrospective a guided path
 

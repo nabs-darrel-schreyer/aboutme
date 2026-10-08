@@ -43,6 +43,7 @@ Technologies and practices I use to design, build, and operate software.
 - WPF
 - .NET MAUI
 - MVVM
+- VS Code extension development
 
 ## Cloud Platforms
 
