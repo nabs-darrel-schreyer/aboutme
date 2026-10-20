@@ -19,6 +19,7 @@ This is the living CV: public work organised by technology, each with a link and
 - [GitHub Copilot]({{ '/skills/copilot/' | relative_url }})
 - [VS Code extensions]({{ '/skills/vscode-extensions/' | relative_url }})
 - [Orleans]({{ '/skills/orleans/' | relative_url }})
+- [SQL and databases]({{ '/skills/sql/' | relative_url }})
 - [Azure]({{ '/skills/azure/' | relative_url }})
 - [AWS]({{ '/skills/aws/' | relative_url }})
 - [CI/CD]({{ '/skills/cicd/' | relative_url }})

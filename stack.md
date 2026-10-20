@@ -158,6 +158,7 @@ Technologies and practices I use to design, build, and operate software.
 - MSTest
 - bUnit
 - Playwright
+- Testcontainers
 - Microsoft Automation Framework
 - TDD
 
