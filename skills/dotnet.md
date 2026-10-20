@@ -64,3 +64,11 @@ Containerisation is a .NET Aspire sample that keeps a React/Vite frontend and AS
 AfSessionExperiment is a Microsoft Agent Framework (MAF) console sample where Producer and Reviewer agents share work in one session. The Producer stores a test-plan artefact in session StateBag; the Reviewer gets that content injected as context before it runs, then stores its review the same way. It talks to Gemma hosted on Docker Desktop through an OpenAI-compatible endpoint - handy for engineers exploring multi-agent collaboration without stuffing everything into chat history.
 
 `.NET` | `Microsoft Agent Framework (MAF)` | `AI agents` | `OpenAI-compatible API` | `Docker` | `Gemma`
+
+### [efcore-sargable-config](https://github.com/nabs-darrel-schreyer/efcore-sargable-config)
+
+**EF Core SQL Server string mappings - a Copilot agent skill for non-sargable predicates**
+
+efcore-sargable-config is a GitHub Copilot agent skill for finding and fixing EF Core SQL Server string mappings that can make predicates non-sargable, such as an `nvarchar` parameter compared with an indexed `varchar` column. Its schema-first workflow checks the effective mapping (Fluent API, attributes, value converters, `ConfigureConventions`) against the real column type, length, collation and index, labels each finding confirmed, candidate or intentional exception, and only claims a column-side `CONVERT_IMPLICIT` or Index Scan when an actual execution plan shows it. Fixes target the narrowest owning mapping, such as `IsUnicode(false)` with a verified `HasMaxLength`, and real Unicode columns are never silently changed. Manual evals and trigger prompts check answer quality and skill selection separately. It is guidance only: it does not install an analyser, change mappings automatically or connect to SQL Server.
+
+`GitHub Copilot` | `Agent skills` | `EF Core` | `SQL Server` | `.NET` | `Query plans` | `Evals`

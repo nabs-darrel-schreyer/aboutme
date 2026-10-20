@@ -140,6 +140,7 @@ Technologies and practices I use to design, build, and operate software.
 - Model Context Protocol (MCP)
 - Model fine-tuning
 - GitHub Copilot
+- GitHub Copilot agent skills
 - Claude
 - AI-assisted SDLC
 
